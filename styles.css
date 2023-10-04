@@ -10,15 +10,32 @@
     display: flex;
     flex-wrap: wrap;  
   }
-
+/* kerjaan header */
   .header {
-    width: 1200px;
-    height: 80px;
-    background-color: green;
+    width: 1240px;
+    height: 104px;
+    background-color: white;
     margin-left: 100px;
     margin-top: 18px;
   }
-
+  .header-1{
+    width: 135px;
+    height: 82px;
+    background-color:#d3d3d3 ;
+    margin-top: 10px;
+    line-height: 82px;
+  }
+  #My{
+    font-family: "Pacifico", cursive;
+    color: #ec1b09;
+  }
+  #Porto{
+    color: #ff9c1a;
+    font-family: "Pacifico", cursive;
+    font-size: 24px;
+  }
+/* (atas, kanan, bawah, kiri) */
+/* kerjaan header */
   .container-main {
     width: 1250px;
     height: 902px;
