@@ -1,0 +1,54 @@
+*{
+  margin: 0px;
+  padding: 0px;
+  box-sizing: border-box;
+  }
+  .container {
+    width: 1400px;
+    height: 1000px;
+    background-color: grey;
+    display: flex;
+    flex-wrap: wrap;  
+  }
+
+  .header {
+    width: 1200px;
+    height: 80px;
+    background-color: green;
+    margin-left: 100px;
+    margin-top: 18px;
+  }
+
+  .container-main {
+    width: 1250px;
+    height: 902px;
+    background-color: blue;
+    margin-left: 100px;
+    margin-top: 0;
+    display: flex;
+  }
+
+  .container-main-aside {
+    width: 400px;
+    height: 852px;
+    background-color: red;
+  }
+
+  .container-main-kanan {
+    width: 850px;
+    height: 862px;
+    background-color: yellow;
+  }
+
+  .container-main-kanan-navbar {
+    width: 375px;
+    height: 100px;
+    background-color: brown;
+    margin-left: 275px;
+    margin-top: 42px;
+  }
+  .container-main-kanan-konten{
+    width: 840px;
+    height: 720px;
+    background-color: aqua;
+  }
